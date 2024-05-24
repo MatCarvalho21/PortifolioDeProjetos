@@ -4,3 +4,4 @@
 - [Iure Adventures](https://github.com/LuuSamp/Iure_Adventures)
 - [Machine Learning Lab](https://github.com/MatCarvalho21/MachineLearningLab)
 - [Crash Course IoT](https://github.com/MatCarvalho21/CrashCourse_IoT)
+- [Pet Analytics](https://github.com/Posture-Analytics/PetAnalytics)
