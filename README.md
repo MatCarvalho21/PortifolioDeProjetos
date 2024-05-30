@@ -18,6 +18,8 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 💳 [Credit Card Eligibility](https://github.com/MatCarvalho21/CreditCardEligibility)
 
+### 🎲 [Data Warehouse](https://github.com/MatCarvalho21/SQL)
+
 ## Contato
 
 Se você tiver alguma dúvida ou quiser saber mais sobre os meus projetos, sinta-se à vontade para entrar em contato comigo pelo [GitHub](https://github.com/MatCarvalho21) ou através do meu e-mail: matheuscarvalho210404@outlook.com.
