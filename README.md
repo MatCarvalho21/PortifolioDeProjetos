@@ -8,9 +8,13 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### ⛹️ [Best NBA Player Of All Time](https://github.com/MatCarvalho21/best_nba_player_of_all_time)
 
+### ⚽️ [Soccer Project (Doing)](https://github.com/MatCarvalho21/Soccer)
+
 ### 🎮 [Iure Adventures](https://github.com/LuuSamp/Iure_Adventures)
 
 ### 🤖 [Machine Learning Lab (Doing)](https://github.com/MatCarvalho21/MachineLearningLab)
+
+### 👀 [Computer Vision Lab (Doing)](https://github.com/MatCarvalho21/ComputerVisionLab)
 
 ### 🖥️ [Crash Course IoT](https://github.com/MatCarvalho21/CrashCourse_IoT)
 
