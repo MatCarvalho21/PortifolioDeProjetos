@@ -10,19 +10,19 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 🎮 [Iure Adventures](https://github.com/LuuSamp/Iure_Adventures)
 
-### 🤖 [Machine Learning Lab (Doing)](https://github.com/MatCarvalho21/MachineLearningLab)
-
-### 👀 [Computer Vision Lab (Doing)](https://github.com/MatCarvalho21/ComputerVisionLab)
-
 ### 🖥️ [Crash Course IoT](https://github.com/MatCarvalho21/CrashCourse_IoT)
-
-### 🦮 [Pet Analytics (Doing)](https://github.com/Posture-Analytics/PetAnalytics)
-
-### 💳 [Credit Card Eligibility (Doing)](https://github.com/MatCarvalho21/CreditCardEligibility)
 
 ### 🎲 [Data Warehouse](https://github.com/MatCarvalho21/SQL)
 
 ### 🔎 [Algoritmos de Busca](https://github.com/scrocha/algoritmos-ED/tree/main)
+
+### 💳 [Credit Card Eligibility (Doing)](https://github.com/MatCarvalho21/CreditCardEligibility)
+
+### 🤖 [Machine Learning Lab (Doing)](https://github.com/MatCarvalho21/MachineLearningLab)
+
+### 👀 [Computer Vision Lab (Doing)](https://github.com/MatCarvalho21/ComputerVisionLab)
+
+### 🎁 [Reinforcement Learning (Doing)](https://github.com/MatCarvalho21/ReinforcementLearning)
 
 ## Contato
 
