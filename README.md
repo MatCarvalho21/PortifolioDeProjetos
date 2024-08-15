@@ -24,6 +24,10 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 🎁 [Reinforcement Learning (Doing)](https://github.com/MatCarvalho21/ReinforcementLearning)
 
+### 🗣️ [Natural Language Processing and Information Retrieval (Doing)](https://github.com/MatCarvalho21/NLP_InfoRetrielval)
+
+### ⌨️ [Design and Analysis of Algorithms (Doing)](https://github.com/MatCarvalho21/PAA)
+
 ## Contato
 
 Se você tiver alguma dúvida ou quiser saber mais sobre os meus projetos, sinta-se à vontade para entrar em contato comigo pelo [GitHub](https://github.com/MatCarvalho21) ou através do meu e-mail: matheuscarvalho210404@outlook.com.
