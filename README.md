@@ -16,13 +16,13 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 🔎 [Algoritmos de Busca](https://github.com/scrocha/algoritmos-ED/tree/main)
 
+### 🎁 [Reinforcement Learning](https://github.com/MatCarvalho21/ReinforcementLearning)
+
 ### 💳 [Credit Card Eligibility (Doing)](https://github.com/MatCarvalho21/CreditCardEligibility)
 
 ### 🤖 [Machine Learning Lab (Doing)](https://github.com/MatCarvalho21/MachineLearningLab)
 
 ### 👀 [Computer Vision Lab (Doing)](https://github.com/MatCarvalho21/ComputerVisionLab)
-
-### 🎁 [Reinforcement Learning (Doing)](https://github.com/MatCarvalho21/ReinforcementLearning)
 
 ### 🗣️ [Natural Language Processing and Information Retrieval (Doing)](https://github.com/MatCarvalho21/NLP_InfoRetrielval)
 
