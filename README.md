@@ -4,23 +4,23 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ## Projetos
 
-### 🏀 [NBA Ultimate Team](https://github.com/MatCarvalho21/NBA_ultimate_team.py)
+### 🏀 [NBA Ultimate Team (Python)](https://github.com/MatCarvalho21/NBA_ultimate_team.py)
 
-### ⛹️ [Best NBA Player Of All Time](https://github.com/MatCarvalho21/best_nba_player_of_all_time)
+### ⛹️ [Best NBA Player Of All Time (Python e R)](https://github.com/MatCarvalho21/best_nba_player_of_all_time)
 
-### 🎮 [Iure Adventures](https://github.com/LuuSamp/Iure_Adventures)
+### 🎮 [Iure Adventures (Python)](https://github.com/LuuSamp/Iure_Adventures)
 
-### 🖥️ [Crash Course IoT](https://github.com/MatCarvalho21/CrashCourse_IoT)
+### 🖥️ [Crash Course IoT (C++)](https://github.com/MatCarvalho21/CrashCourse_IoT)
 
-### 🎲 [Data Warehouse](https://github.com/MatCarvalho21/SQL)
+### 🎲 [Data Warehouse (PLpgSQL)](https://github.com/MatCarvalho21/SQL)
 
-### 🔎 [Algoritmos de Busca em C++](https://github.com/scrocha/algoritmos-ED/tree/main)
+### 🔎 [Algoritmos e Estrutura de Dados (C++)](https://github.com/scrocha/algoritmos-ED/tree/main)
 
-### 🎁 [Reinforcement Learning](https://github.com/MatCarvalho21/ReinforcementLearning)
+### 🎁 [Reinforcement Learning (Python)](https://github.com/MatCarvalho21/ReinforcementLearning)
 
-### 🔢 [Sudoku em Java](https://github.com/MatCarvalho21/Sudoku-Java)
+### 🔢 [Sudoku (Java)](https://github.com/MatCarvalho21/Sudoku-Java)
 
-### 🚃 [App de Mobilidade Urbana em C++](https://github.com/MatCarvalho21/trabalho_paa)
+### 🚃 [App de Mobilidade Urbana (C++)](https://github.com/MatCarvalho21/trabalho_paa)
 
 ## Contato
 
