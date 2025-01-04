@@ -14,19 +14,13 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 🎲 [Data Warehouse](https://github.com/MatCarvalho21/SQL)
 
-### 🔎 [Algoritmos de Busca](https://github.com/scrocha/algoritmos-ED/tree/main)
+### 🔎 [Algoritmos de Busca em C++](https://github.com/scrocha/algoritmos-ED/tree/main)
 
 ### 🎁 [Reinforcement Learning](https://github.com/MatCarvalho21/ReinforcementLearning)
 
-### 💳 [Credit Card Eligibility (Doing)](https://github.com/MatCarvalho21/CreditCardEligibility)
+### 🔢 [Sudoku em Java](https://github.com/MatCarvalho21/Sudoku-Java)
 
-### 🤖 [Machine Learning Lab (Doing)](https://github.com/MatCarvalho21/MachineLearningLab)
-
-### 👀 [Computer Vision Lab (Doing)](https://github.com/MatCarvalho21/ComputerVisionLab)
-
-### 🗣️ [Natural Language Processing and Information Retrieval (Doing)](https://github.com/MatCarvalho21/NLP_InfoRetrielval)
-
-### ⌨️ [Design and Analysis of Algorithms (Doing)](https://github.com/MatCarvalho21/PAA)
+### 🚃 [App de Mobilidade Urbana em C++](https://github.com/MatCarvalho21/trabalho_paa)
 
 ## Contato
 
