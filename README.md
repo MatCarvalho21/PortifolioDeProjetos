@@ -22,7 +22,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 🚃 [App de Mobilidade Urbana (C++)](https://github.com/MatCarvalho21/trabalho_paa)
 
-### 💸 [SQL Reist](https://github.com/MatCarvalho21/SQLHeist/tree/main)
+### 💸 [SQL Reist (Python e SQL)](https://github.com/MatCarvalho21/SQLHeist/tree/main)
 
 ## Contato
 
