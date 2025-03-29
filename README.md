@@ -22,6 +22,8 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 🚃 [App de Mobilidade Urbana (C++)](https://github.com/MatCarvalho21/trabalho_paa)
 
+### 💸 [SQL Reist](https://github.com/MatCarvalho21/SQLHeist/tree/main)
+
 ## Contato
 
 Se você tiver alguma dúvida ou quiser saber mais sobre os meus projetos, sinta-se à vontade para entrar em contato comigo pelo [GitHub](https://github.com/MatCarvalho21) ou através do meu e-mail: matheuscarvalho210404@outlook.com.
