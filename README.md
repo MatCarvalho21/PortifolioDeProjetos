@@ -22,7 +22,9 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma seleção do
 
 ### 🚃 [App de Mobilidade Urbana (C++)](https://github.com/MatCarvalho21/trabalho_paa)
 
-### 💸 [SQL Reist (Python e SQL)](https://github.com/MatCarvalho21/SQLHeist/tree/main)
+### 💸 [SQL Reist (Python e SQL) - Em Desenvolvimento](https://github.com/MatCarvalho21/SQLHeist/tree/main)
+
+### 🏎️ [Speed Data Circuit (HTML, CSS and JS)](https://github.com/FGV-VIS-2025/speed-data-circuit)
 
 ## Contato
 
